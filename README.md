@@ -43,10 +43,10 @@ All interactions are handled client-side using JavaScript.
 ## Screenshots
 
 ### Sign In
-![sign in](sign in.png)
+![Sign In Screenshot](signin.png)
 
 ### Sign Up
-![sign up](sign up.png)
+![Sign Up Screenshot](signup.png)
 
 ---
 
